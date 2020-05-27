@@ -1,0 +1,10 @@
+{
+  "name": "@numso/rxjs-es2015-precompiled",
+  "version": "6.5.5",
+  "main": "./rxjs.js",
+  "exports": {
+    ".": "./rxjs.js",
+    "./operators": "./operators.js",
+    "./common.js": "./common.js"
+  }
+}
